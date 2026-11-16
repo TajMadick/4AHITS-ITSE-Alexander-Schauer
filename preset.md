@@ -10,12 +10,6 @@
  
 **Aufgabenstellung: [Ryuk_Ransomware](https://www.franzmatejka.at/htl/doc/ITSI/lab/ransom_ryuk/01_ryuk.html)**
 
-
-# Inhaltsverzeichnis
-- a
-- b
-- Nicht gemacht
-
 # Aufgabe a
 
 
